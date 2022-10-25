@@ -1,0 +1,19 @@
+{
+  "name": "api-docs-generator",
+  "version": "1.0.0",
+  "description": "A swagger-fastAPI like clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingJay90/API-docs-generator.git"
+  },
+  "author": "codingJay90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingJay90/API-docs-generator/issues"
+  },
+  "homepage": "https://github.com/CodingJay90/API-docs-generator#readme"
+}
